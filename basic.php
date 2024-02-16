@@ -53,7 +53,7 @@ if(isset($_POST['submit']))
         // JavaScript function to show alert message
         function showAlert(message) {
             alert(message);
-        }///hello  woprld
+        }
     </script>
 </head>
 
